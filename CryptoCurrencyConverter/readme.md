@@ -1,4 +1,4 @@
-# Bitcoin Ticker 🤑
+# Crypto Tracker 🤑
 
 Its a crypto currency price checking app, you'll be able to monitor your bitcoin investments in it!
 
