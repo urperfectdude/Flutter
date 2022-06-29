@@ -2,7 +2,7 @@
 
 Its a crypto currency price checking app, you'll be able to monitor your bitcoin investments in it!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](CryptoCurrencyConverter/bitcoin-flutter-demo.gif)
 
 ## Learnt
 
