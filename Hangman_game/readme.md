@@ -10,9 +10,3 @@ A hangman game written in Dart with Flutter framework. Player has 5 lives in eac
 
 <img align="center" width="350"  src="./res/documentation/pre3.png"   ><img width="350" align="center" src="./res/documentation/pre4.png" hspace="50">
 
-
-App screenshots created with <a href="https://previewed.app/">Previewed</a>
-
-## License
-
-Released under MIT License. See [LICENSE](LICENSE) for more info.
